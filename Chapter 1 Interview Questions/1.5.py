@@ -10,7 +10,7 @@ print(one_way("pale", "ale"))
 
 
 #Solution 1
-def one_way_solution1(first, second):
+def one_way_solution1(first, second): #Has a space complexity of O(1)
 
     def main():
         if len(first) == len(second):
